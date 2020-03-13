@@ -31,7 +31,10 @@ MENSAJES = {
     'dicord': 'algo pasa con el discord',
     'hack': 'ayuda me hackiaron',
     'acabar': 'ya terminamos uncle sam???',
-    'responder': 'Espera que???'
+    'responder': 'Espera que???',
+    'xd': 'Que no se entere adrian',
+    'time': 'Estoy hackiando tiempo',
+    'fap': 'fap-time'
 }
 
 MENSAJES_RESPUESTA = {
