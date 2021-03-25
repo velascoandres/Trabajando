@@ -27,7 +27,7 @@ python-xlib==0.26
 python3-xlib==0.15
 PyTweening==1.0.3
 pyudev==0.22.0
-PyYAML==5.3
+PyYAML==5.4
 requests==2.23.0
 six==1.14.0
 typing-extensions==3.7.4.1
