@@ -13,7 +13,7 @@ keyboard==0.13.4
 MarkupSafe==1.1.1
 MouseInfo==0.1.2
 multidict==4.7.5
-Pillow==7.0.0
+Pillow==8.3.2
 press==0.5.8
 PyAutoGUI==0.9.48
 PyGetWindow==0.0.8
